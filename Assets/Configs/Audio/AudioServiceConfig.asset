@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 999abe2e3e924a69a86c2f1e599dc17a, type: 3}
+  m_Name: AudioServiceConfig
+  m_EditorClassIdentifier: Assembly-CSharp::Services.Audio.Configs.AudioServiceConfig
+  _audioSourceWrapperPrefab: {fileID: -3951484322125505111, guid: 0699cc92515dd401caba7f6083e19621, type: 3}
+  _persistentPoolSize: 10
